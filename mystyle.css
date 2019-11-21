@@ -1,0 +1,55 @@
+body {
+  background-color: lightblue;
+  margin: 100px;
+  margin-right: 220px;
+  line-height: 30px;
+}
+
+h1 {
+  color: navy;
+  margin-left: 450px;
+  margin-top: 40px;
+  letter-spacing: 10px;
+  font-size: 64px;
+
+}
+
+h2 {
+	color: tomato;
+	margin-left: 450px;
+	background-color: ;
+	letter-spacing: 10px;
+	line-height: 2.8px;
+	font-size: 50px;
+}
+
+h3 {
+margin-left: 50px;
+
+
+}
+
+h6{
+	color:navy;
+	font-size:30px;
+}
+
+
+
+
+
+img {
+	height: 200px;
+    width: 50%;
+}
+
+h5{
+
+	font-size: 30px;
+	color:tomato;
+	text-decoration: underline;
+	line-height: 0.8px;
+
+}
+
+
