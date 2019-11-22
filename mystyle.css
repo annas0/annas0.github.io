@@ -7,49 +7,38 @@ body {
 
 h1 {
   color: navy;
-  margin-left: 450px;
-  margin-top: 40px;
+  /*margin-left: 450px;
+  margin-top: 40px;*/
   letter-spacing: 10px;
   font-size: 64px;
-
+  text-align: center;
 }
 
 h2 {
-	color: tomato;
-	margin-left: 450px;
-	background-color: ;
-	letter-spacing: 10px;
-	line-height: 2.8px;
-	font-size: 50px;
+  color: tomato;
+  /* margin-left: 450px;*/
+  letter-spacing: 10px;
+  line-height: 2.8px;
+  font-size: 50px;
+  text-align: center;
 }
 
 h3 {
-margin-left: 50px;
-
-
+  margin-left: 50px;
 }
 
-h6{
-	color:navy;
-	font-size:30px;
+h6 {
+  color: navy;
+  font-size: 30px;
 }
-
-
-
-
 
 img {
-	height: 200px;
-    width: 50%;
+  width: 50%;
 }
 
-h5{
-
-	font-size: 30px;
-	color:tomato;
-	text-decoration: underline;
-	line-height: 0.8px;
-
+h5 {
+  font-size: 30px;
+  color: tomato;
+  text-decoration: underline;
+  line-height: 0.8px;
 }
-
-
